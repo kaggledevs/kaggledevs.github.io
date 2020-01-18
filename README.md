@@ -3,6 +3,7 @@
 Kaggledevs is an open community to learn/share ideas related to data science competitions focussed on Kaggle Kernels, datasets, and challenges!
 
 ## Mission
+Discuss Kaggle related questions on Kernels, Datasets, and Challenges, ask questions about the data science tools, techniques and seek help from our large community. Get to know one another and explore the possibilities.
 
 
 ## Join Us
