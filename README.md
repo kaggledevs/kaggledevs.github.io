@@ -1,7 +1,6 @@
 
 # Kaggle Devs
-
----
+Kaggledevs is an open community to learn/share ideas related to data science competitions focussed on Kaggle Kernels, datasets, and challenges!
 
 ## Mission
 
